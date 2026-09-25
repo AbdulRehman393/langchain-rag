@@ -355,7 +355,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![MIT License](https://img.shields.io/badge/LICENSE-MIT-2ea44f?style=for-the-badge)](LICENSE)
+
+This project is licensed under the MIT License.
 
 ---
 
